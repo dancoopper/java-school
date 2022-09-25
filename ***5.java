@@ -1,7 +1,7 @@
 import hsa.Console;
 import java.util.Scanner;
 
-public class Sam5 {
+public class ***5 {
     static Console c;
     static Scanner Sc;
 
